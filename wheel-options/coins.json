@@ -1,0 +1,13 @@
+{
+  "repeat": true,
+  "options": [
+    {
+      "id": "heads",
+      "label": "ОРЁЛ"
+    },
+    {
+      "id": "tails",
+      "label": "РЕШКА"
+    }
+  ]
+}

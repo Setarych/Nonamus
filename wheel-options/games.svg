@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="gameBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1f2937"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+
+    <linearGradient id="pad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect x="20" y="20" width="216" height="216" rx="52" fill="url(#gameBg)"/>
+  <path d="
+    M82 96
+    H174
+    C193 96 208 108 212 126
+    L218 150
+    C223 171 211 190 192 190
+    C180 190 170 184 162 174
+    L149 158
+    H107
+    L94 174
+    C86 184 76 190 64 190
+    C45 190 33 171 38 150
+    L44 126
+    C48 108 63 96 82 96
+    Z
+  " fill="url(#pad)"/>
+  <rect x="72" y="122" width="34" height="12" rx="4" fill="#ede9fe"/>
+  <rect x="83" y="111" width="12" height="34" rx="4" fill="#ede9fe"/>
+  <circle cx="171" cy="122" r="9" fill="#facc15"/>
+  <circle cx="191" cy="138" r="9" fill="#f87171"/>
+  <circle cx="171" cy="154" r="9" fill="#34d399"/>
+  <circle cx="151" cy="138" r="9" fill="#60a5fa"/>
+  <circle cx="106" cy="152" r="12" fill="#4c1d95"/>
+  <circle cx="146" cy="152" r="12" fill="#4c1d95"/>
+  <path d="M54 88 C70 60, 106 46, 148 48" fill="none" stroke="#ffffff" stroke-opacity="0.14" stroke-width="10" stroke-linecap="round"/>
+</svg>

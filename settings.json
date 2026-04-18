@@ -1,0 +1,19 @@
+﻿{
+  "monitor": {
+    "welcomeText": "Добро пожаловать в NoNaмус"
+  },
+  "links": {
+    "documentUrl": "https://docs.google.com/spreadsheets/d/1OhU8AYNRcIpm_emH_q6kGxa_JZghXss_omLM6ta4lPM/edit?usp=sharing"
+  },
+  "wheel": {
+    "maxSpinDurationMs": 240000,
+    "rollSpeedItemsPerSecond": 9,
+    "settleDurationMs": 750,
+    "stopLoopsBeforeSettle": 2,
+    "itemHeightPx": 60,
+    "loopsPerSpin": 6,
+    "visibleItemsCount": 5,
+    "renderRadius": 7,
+    "minRepeatedOptions": 10
+  }
+}

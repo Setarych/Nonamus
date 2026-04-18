@@ -1,0 +1,25 @@
+{
+  "repeat": false,
+  "options": [
+    {
+      "id": "CageInHell",
+      "label": "CageInHell"
+    },
+    {
+      "id": "Flester",
+      "label": "Flester"
+    },
+    {
+      "id": "FooolishCat",
+      "label": "FooolishCat"
+    },
+    {
+      "id": "RikiTheParasyte",
+      "label": "RikiTheParasyte"
+    },
+    {
+      "id": "Teranef",
+      "label": "Teranef"
+    }
+  ]
+}
